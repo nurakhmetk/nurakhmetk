@@ -3,6 +3,7 @@
 I'm a full-time Web Developer at Wunderman Thompson based in Prague. Daily using modern technologies such as Javascript, Typescript, React, Redux, MySQL.
 
 <img src="https://github-readme-stats.vercel.app/api?username=nurakhmet&show_icons=true"/>
+[![nurakhmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurakhmet)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nurakhmetk/nurakhmetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
