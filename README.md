@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Ahoj 👋
 
 I'm a full-time Web Developer at Wunderman Thompson based in Prague. Daily using modern technologies such as Javascript, Typescript, React, Redux, MySQL.
 
